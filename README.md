@@ -1,1 +1,6 @@
-# EVOLVE-EV-vehicle-charging-
+Evolve is a website designed to help electric vehicle (EV) owners plan road trips with optimal routes, ensuring seamless travel with well-timed charging stops. The website integrates real-time data on charging station locations and availability allowing users to plot the most efficient routes based on their vehicle's range. Evolve offers personalized trip planning, taking into account user preferences such as preferred charging networks, amenities at charging stops, and travel time. n this project I have used HTML, CSS,  Javascript  for front end and for backend I have used Php which helps us to maintain data in the database of user logins.
+![Screenshot 2024-06-13 142747](https://github.com/Pavithranpillai08/EVOLVE-EV-vehicle-charging-/assets/88096049/ff6a8cb3-3280-4842-941c-2dbfa3f9e081)
+![Screenshot 2024-06-13 142811](https://github.com/Pavithranpillai08/EVOLVE-EV-vehicle-charging-/assets/88096049/01a7e0bd-82c3-4294-b051-9183b15a8f05)
+![Screenshot 2024-06-13 142831](https://github.com/Pavithranpillai08/EVOLVE-EV-vehicle-charging-/assets/88096049/44ab12de-d66e-4771-847d-e21907049bac)
+![Screenshot 2024-06-13 142900](https://github.com/Pavithranpillai08/EVOLVE-EV-vehicle-charging-/assets/88096049/8a5039f8-d35a-4d98-a932-a398f97dc249)
+![Screenshot 2024-06-13 142914](https://github.com/Pavithranpillai08/EVOLVE-EV-vehicle-charging-/assets/88096049/df581c46-7e7e-4317-889a-5acea7d1c435)
